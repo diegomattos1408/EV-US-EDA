@@ -8,7 +8,7 @@ The EDA involved the following steps:
 4. Visualizations: Creating charts and graphs to visualize distributions, correlations, and trends.
 
 ## Introduction
-Welcome to the Electric Vehicle Population EDA project! This project aims to explore an extensive dataset on electric vehicles (EVs), focusing on various aspects to understand the dynamics and preferences within the EV market. The analyses cover multiple angles, including vehicle type distribution, economic factors, geographic trends, and pricing strategies. Our goal is to uncover patterns and insights that can inform stakeholders about current trends and future directions in the electric vehicle market.
+Welcome to the Electric Vehicle Population EDA project! This project aims to explore an extensive dataset on electric vehicles (EVs), focusing on various aspects to understand the dynamics and preferences within the EV market. The analyses cover multiple angles, including vehicle type distribution, economic factors, and pricing strategies. 
 
 ## Project Structure
 The project is organized into the following sections:
