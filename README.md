@@ -7,6 +7,9 @@ The EDA involved the following steps:
 3. Descriptive Statistics: Generating summary statistics to understand the central tendencies and variability of key variables.
 4. Visualizations: Creating charts and graphs to visualize distributions, correlations, and trends.
 
+- Dashboard
+![Power BI Dashboard](eletric_vehicle_population_bi.png)
+
 ## Introduction
 Welcome to the Electric Vehicle Population EDA project! This project aims to explore an extensive dataset on electric vehicles (EVs), focusing on various aspects to understand the dynamics and preferences within the EV market. The analyses cover multiple angles, including vehicle type distribution, economic factors, and pricing strategies. 
 
