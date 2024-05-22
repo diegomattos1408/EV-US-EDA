@@ -7,7 +7,7 @@ The EDA involved the following steps:
 3. Descriptive Statistics: Generating summary statistics to understand the central tendencies and variability of key variables.
 4. Visualizations: Creating charts and graphs to visualize distributions, correlations, and trends.
 
-- Dashboard
+### Dashboard
 ![Power BI Dashboard](eletric_vehicle_population_bi.png)
 
 ## Introduction
